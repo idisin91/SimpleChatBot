@@ -1,1 +1,2 @@
-Simple test text \n
+Simple test text 
+Another text
