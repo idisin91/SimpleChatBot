@@ -1,0 +1,13 @@
+
+*.iml
+
+SimpleChatBot/node_modules/lodash/_createOver.js
+
+SimpleChatBot/node_modules/lodash/_hasUnicodeWord.js
+
+.idea/vcs.xml
+/SimpleChatBot/node_modules/
+
+.idea/modules.xml
+
+.idea/workspace.xml
