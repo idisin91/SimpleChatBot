@@ -1,2 +1,6 @@
 # SimpleChatBot
-Just a test of the Telegram Bot Api
+Very simple chat bot for the Telegram.
+
+For using install node.js and run `npm install node-telegram-bot-api -g`
+in terminal.
+

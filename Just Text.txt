@@ -1,7 +1,0 @@
-Simple test text 
-Another text
-Third line
-Fourth line
-Fifth line
-Six line and counting...
-And coming back... Seven line
