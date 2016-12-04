@@ -3,9 +3,7 @@
 
 
 .idea/vcs.xml
-/node_modules/
 
-.idea/modules.xml
 
 .idea/workspace.xml
 
@@ -13,10 +11,8 @@
 
 .idea/markdown-navigator.xml
 
-buttons.csv
 
 *.csv
 
 *.csv
 
-answers.csv
