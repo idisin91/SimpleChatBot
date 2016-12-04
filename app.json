@@ -1,0 +1,15 @@
+{
+  "name": "Simple Chat Bot",
+  "description": "Small telegram bot.",
+  "keywords": [
+    "telegram",
+    "node.js",
+    "bot"
+  ],
+
+"buildpacks": [
+{
+"url": "https://elements.heroku.com/buildpacks/heroku/heroku-buildpack-nodejs"
+}
+]
+}
