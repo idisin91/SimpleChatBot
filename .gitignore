@@ -1,5 +1,4 @@
 
-*.iml
 
 
 .idea/vcs.xml
@@ -10,9 +9,4 @@
 .idea/webResources.xml
 
 .idea/markdown-navigator.xml
-
-
-*.csv
-
-*.csv
 
