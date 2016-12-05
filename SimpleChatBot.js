@@ -1,4 +1,4 @@
-var TelegramBot = require('node-telegram-bot-api');
+const TelegramBot = require('node-telegram-bot-api');
 
 //TODO: добавить базу данных для хранения текущего состояния пользователя
 var token = '314400177:AAGdYxeda0twyZCyAXWUq4M8u_hn5Ne5IVw';
