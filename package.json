@@ -7,6 +7,6 @@
     "npm": "3.10.x"
   },
   "scripts": {
-    "start": "node your-script.js"
+    "start": "node SimpleChatBot.js"
   }
 }
