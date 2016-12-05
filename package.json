@@ -6,4 +6,7 @@
     "node": "6.9.x",
     "npm": "3.10.x"
   }
+  "scripts": {
+    "start": "node your-script.js"
+  }
 }
